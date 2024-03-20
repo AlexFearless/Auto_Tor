@@ -3,7 +3,7 @@
 
 toolu nasil indirebiliriz :
 
-* : requirements:
+* : ihtiyaçlar:
 
   sudo apt-get install tor
   pip3 install requests[socks]
